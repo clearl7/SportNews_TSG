@@ -1,0 +1,2 @@
+# SportNews_TSG
+基于seq2seq框架的体育新闻文本摘要生成
