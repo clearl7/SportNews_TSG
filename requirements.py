@@ -1,0 +1,9 @@
+torch==1.7.1
+torchvision==0.8.2
+transformers==4.17.0
+datasets==2.0.0
+accelerate==0.6.1
+pkuseg==0.0.25
+rouge==1.0.1
+tqdm==4.63.0
+numpy==1.17
